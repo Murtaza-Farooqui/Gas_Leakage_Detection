@@ -4,13 +4,13 @@ Gas detector with 8051 and MQ2 Gas Sensor which is suitable for detecting H2, LP
 
 Hardware requirements
 ----------------------------------------------------------------------------------------------------------------------------------
- 1.8051 Microcontroller
- 2.MQ2 Sensor
- 3.16x2 LCD with I2C
- 4.LED
+ 1.8051 Microcontroller\
+ 2.MQ2 Sensor\
+ 3.16x2 LCD with I2C\
+ 4.LED\
  
 Libraries and software required
 -----------------------------------------------------------------------------------------------------------------------------------
- 1.LiquidCrystal_I2C
- 2.Keil uVision 5
+ 1.LiquidCrystal_I2C\
+ 2.Keil uVision 5\
 
